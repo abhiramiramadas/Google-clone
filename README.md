@@ -3,6 +3,11 @@
 This is a simple clone of the Google homepage built using HTML and CSS.
 ![image](https://github.com/user-attachments/assets/1f591d9f-bcf6-49b4-b1e1-b8d587d14e85)
 
+## Live Demo
+You can view the live demo of the Google clone by clicking the link below:
+
+[Google Clone - Live Demo](https://abhiramiramadas.github.io/Google-clone/)
+
 ## Features
 - Basic structure of the Google homepage.
 - Includes a search bar, Google logo, and a footer.
